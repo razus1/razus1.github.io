@@ -22,7 +22,7 @@
       },
       "additionalSetColors": []
     },
-    "favicon": "@PROJECT_PATH@/assets/images/14721634-1806531569560744-2650821064583199641-n-128x1284.png",
+    "favicon": "@PROJECT_PATH@/assets/images/14721634-1806531569560744-2650821064583199641-n-128x1285.png",
     "noImageResize": "",
     "versionFirst": "4.6.3",
     "uniqCompNum": 11,
@@ -281,6 +281,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_params": {

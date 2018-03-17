@@ -421,6 +421,10 @@ h6,
 #slider-5 H2 {
   text-align: center;
 }
+#msg-box7-a .mbr-section-title,
+#msg-box7-a .lead p {
+  color: #fff;
+}
 #social-buttons4-7 .mbr-section-title,
 #social-buttons4-7 .btn-social {
   color: #fff;

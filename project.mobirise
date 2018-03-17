@@ -20,9 +20,11 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#121010"
+      ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/14721634-1806531569560744-2650821064583199641-n-128x1285.png",
+    "favicon": "@PROJECT_PATH@/assets/images/14721634-1806531569560744-2650821064583199641-n-128x1280.png",
     "noImageResize": "",
     "versionFirst": "4.6.3",
     "uniqCompNum": 11,
@@ -417,7 +419,7 @@
           },
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
@@ -438,12 +440,12 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#121010",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
